@@ -2,7 +2,7 @@
 int main(){
     char name[30];
     int age;
-    char gender;
+    char gender[15];
     long phone;
     float percentage;
 
